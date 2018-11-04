@@ -1,6 +1,11 @@
 # Your code goes here!
 
 class Dog 
-  def 
+  def name(dogs_name)
+    @name 
+  end
+  def name
+    @name
+  end
 end
 
